@@ -1,0 +1,32 @@
+[
+    {
+        "title":"心动的鱼套餐",
+        "id":1,
+        "type":"fishPlus"
+    },
+    {
+        "title":"心动的鱼",
+        "id":2,
+        "type":"fish"
+    },
+    {
+        "title":"好吃的凉菜",
+        "id":3,
+        "type":"salad"
+    },
+    {
+        "title":"你的江湖菜",
+        "id":4,
+        "type":"river"
+    },
+    {
+        "title":"主食来果腹",
+        "id":5,
+        "type":"staple"
+    },
+    {
+        "title":"饮料",
+        "id":6,
+        "type":"drink"
+    }
+]
